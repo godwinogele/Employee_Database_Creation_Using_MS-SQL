@@ -4,6 +4,7 @@ This repository contains SQL statements to set up a new database called "Employe
 # Creating a New Database
 To create a new database named "Employee_Database," you can use the following SQL statement:
 
+sql
 CREATE DATABASE Employee_Database;
 
 # Creating Employee and Salary Tables
