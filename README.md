@@ -19,7 +19,7 @@ To create the "Employee_Details" table with columns for EmployeeID, FirstName, L
 
 CREATE TABLE Employee_Details
 (
-    EmployeeID INT,
+	EmployeeID INT,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
     Age INT,
