@@ -8,8 +8,6 @@ Before using the provided SQL statements, make sure you have:
 
 - SQL Server installed and running on your system.
 
-# Employee_Database_Creation_Using_MS-SQL
-This repository contains SQL statements to set up a new database called "Employee_Database" and create two tables, "Employee_Details" and "Employee_Salary," for managing employee information.
 
 # Creating a New Database
 To create a new database named "Employee_Database," you can use the following SQL statement:
